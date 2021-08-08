@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae61993b-407c-4d03-b17d-1d972509c5f8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
+  <component name="ProblemsViewState">
+    <option name="showPreview" value="true" />
+  </component>
+  <component name="ProjectId" id="1gItHVZLmnepg0vyeBGg5jXowPT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\final\project" />
+      <recent name="C:\xampp\htdocs\final\project\admin\includes" />
+      <recent name="C:\xampp\htdocs\final\project\admin" />
+      <recent name="C:\xampp\htdocs\final\project\pdfs" />
+      <recent name="C:\xampp\htdocs\final\project\video" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\final\project" />
+      <recent name="C:\xampp\htdocs\final\project\includes" />
+      <recent name="C:\xampp\htdocs\final\project\includes\css" />
+      <recent name="C:\xampp\htdocs\final\project\images" />
+      <recent name="C:\xampp\htdocs\final\project\css\images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae61993b-407c-4d03-b17d-1d972509c5f8" name="Default Changelist" comment="" />
+      <created>1597813848993</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597813848993</updated>
+      <workItem from="1597813850476" duration="4131000" />
+      <workItem from="1597818023014" duration="2245000" />
+      <workItem from="1597832845789" duration="10984000" />
+      <workItem from="1597844629163" duration="3135000" />
+      <workItem from="1597910896891" duration="21024000" />
+      <workItem from="1597935060832" duration="57000" />
+      <workItem from="1597937320466" duration="900000" />
+      <workItem from="1597980013954" duration="10793000" />
+      <workItem from="1597991984108" duration="1595000" />
+      <workItem from="1597993615356" duration="375000" />
+      <workItem from="1597994037763" duration="817000" />
+      <workItem from="1597995066832" duration="245000" />
+      <workItem from="1597995636400" duration="62000" />
+      <workItem from="1598077317262" duration="8117000" />
+      <workItem from="1598089668066" duration="4115000" />
+      <workItem from="1598094529208" duration="9635000" />
+      <workItem from="1598105568779" duration="2201000" />
+      <workItem from="1598109985967" duration="9696000" />
+      <workItem from="1598171084811" duration="1873000" />
+      <workItem from="1598173291766" duration="6947000" />
+      <workItem from="1598181215407" duration="11000" />
+      <workItem from="1598181917138" duration="840000" />
+      <workItem from="1598182859879" duration="997000" />
+      <workItem from="1598190563825" duration="1998000" />
+      <workItem from="1598193069953" duration="3526000" />
+      <workItem from="1598244025560" duration="156000" />
+      <workItem from="1598244837041" duration="871000" />
+      <workItem from="1598339939759" duration="6589000" />
+      <workItem from="1598423792211" duration="869000" />
+      <workItem from="1598499613959" duration="3782000" />
+      <workItem from="1598503522094" duration="102000" />
+      <workItem from="1598504329147" duration="2516000" />
+      <workItem from="1598508172867" duration="1167000" />
+      <workItem from="1598510831764" duration="631000" />
+      <workItem from="1598542877361" duration="12155000" />
+      <workItem from="1598622037811" duration="10570000" />
+      <workItem from="1598681187802" duration="25735000" />
+      <workItem from="1598763087811" duration="1692000" />
+      <workItem from="1598792233978" duration="9730000" />
+      <workItem from="1598802916174" duration="305000" />
+      <workItem from="1598804761383" duration="649000" />
+      <workItem from="1598845376699" duration="2274000" />
+      <workItem from="1598852927156" duration="4351000" />
+      <workItem from="1598863710525" duration="4008000" />
+      <workItem from="1598883011636" duration="7174000" />
+      <workItem from="1598941307926" duration="4102000" />
+      <workItem from="1598950056965" duration="3000" />
+      <workItem from="1598950891829" duration="14000" />
+      <workItem from="1599017859335" duration="10326000" />
+      <workItem from="1599069847250" duration="7910000" />
+      <workItem from="1599078427165" duration="67000" />
+      <workItem from="1599235983631" duration="359000" />
+      <workItem from="1599243256434" duration="5007000" />
+      <workItem from="1599463543281" duration="1922000" />
+      <workItem from="1599465774640" duration="1417000" />
+      <workItem from="1599488891715" duration="2509000" />
+      <workItem from="1599495758398" duration="5124000" />
+      <workItem from="1599505169608" duration="3388000" />
+      <workItem from="1601114608223" duration="651000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="349" y="0" key="#PHP" timestamp="1597983593389">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="349" y="0" key="#PHP/0.0.1280.680@0.0.1280.680" timestamp="1597983593389" />
+    <state x="396" y="142" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599077404136">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="396" y="142" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1599077404136" />
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598845554784">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1598845554784" />
+    <state x="477" y="264" key="NewPhpFileDialog" timestamp="1598684897992">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="477" y="264" key="NewPhpFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1598684897992" />
+    <state x="297" y="153" key="run.anything.popup" timestamp="1598079228849">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="153" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1598079228849" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1598552516031">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1598552516031" />
+  </component>
+</project>
